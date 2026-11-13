@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0013-roman-to-integer) |
+| [2235-add-two-integers](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
