@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0001-two-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/2469-convert-the-temperature) |
 ## String
