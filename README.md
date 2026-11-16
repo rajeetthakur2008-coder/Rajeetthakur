@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0029-divide-two-integers) |
 | [0412-fizz-buzz](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/2235-add-two-integers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
