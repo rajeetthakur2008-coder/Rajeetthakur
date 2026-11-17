@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/2235-add-two-integers) |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
