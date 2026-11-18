@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0041-first-missing-positive) |
 | [0287-find-the-duplicate-number](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0287-find-the-duplicate-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/1480-running-sum-of-1d-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/rajeetthakur2008-coder/Rajeetthakur/tree/master/0041-first-missing-positive) |
 ## Math
 |  |
 | ------- |
